@@ -1,1 +1,1 @@
-# deleteme-duplicate-sample-7
+This is a demo with a single java file in it
